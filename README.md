@@ -1,2 +1,2 @@
 # hello-world
-helloworld program
+print('hello-world')
